@@ -4,11 +4,11 @@ I'm Prasath, a passionate developer. I believe that nothing is impossible! Let's
 
 ## About Me
 
-I'm currently based in Karaikal and working with the team at [Enlight Techz]. I enjoy exploring new technologies and am always eager to take on new challenges.
+I'm currently based in Karaikal and working with the team at [Enlight Techz](https://github.com/enlight_techz). I enjoy exploring new technologies and am always eager to take on new challenges.
 
 ## Skills & Technologies
 
-androidstudio,docker,html,css,js,git,github,flutter,nodejs,express,flask,mongodb,postman,graphql,redis,java,kotlin,vue,react
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,html,css,js,git,github,flutter,nodejs,express,flask,mongodb,postman,graphql,redis,java,kotlin,vue,react&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -34,7 +34,7 @@ Check out my latest articles on [Instagram](https://www.instagram.com/saprasath8
 
 ## Connect with Me
 
-{"instagram":"https://www.instagram.com/saprasath8","linkedin":"https://www.linkedin.com/in/prasath-sa/"}
+{"youtube":"https://YouTube.com/@enlighttechz","instagram":"https://www.instagram.com/saprasath8","linkedin":"https://www.linkedin.com/in/prasath-sa/","generic":"https://www.favoflex.com/"}
 
 ## ASCII Art
 
