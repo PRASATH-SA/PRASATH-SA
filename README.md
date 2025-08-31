@@ -4,7 +4,7 @@ I'm Prasath, a passionate developer. I believe that nothing is impossible! Let's
 
 ## About Me
 
-I'm currently based in Karaikal and working with the team at [Enlight Techz](). I enjoy exploring new technologies and am always eager to take on new challenges.
+I'm based in Karaikal currently pursuing my Bachelor's degree in Computer Science and Engineering at Pondicherry and working with the team at [Enlight Techz]. I enjoy exploring new technologies and am always eager to take on new challenges.
 
 ## Skills & Technologies
 
